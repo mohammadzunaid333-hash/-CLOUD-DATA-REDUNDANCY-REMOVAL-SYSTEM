@@ -136,6 +136,11 @@ http://127.0.0.1:5500
 
 ---
 
+
+
+## 📸 Project Screenshot
+
+![Cloud Data Redundancy Removal System](images/dashboard.png)
 ## 💡 How It Works
 
 1. User enters Name and Email.
